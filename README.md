@@ -1,5 +1,6 @@
 # Casa Oliveira
-## Estudo de caso
+## Estudo de Caso
+
 Roberto é dono de um mercado no bairro de Vargem Grande, na cidade de 
 Tupã. Ele herdou o negócio de seu pai, Gumercindo Oliveira. O negócio 
 iniciou em 1978 na garagem da casa da família, era uma pequena quitanda. 
@@ -19,7 +20,6 @@ açougueiro também ajudava no estoque; a moça da limpeza ajudava na
 organização dos produtos das prateleiras, além de auxiliar na padaria. 
 Quando o caixa estava vazio, o operador ajudava a repor os laticínios e a 
 limpar a loja. O repositor também trabalhava no caixa.
-
 Ao realizar a venda, Roberto, que sabia o nome de quase todos os clientes, 
 anotava em um caderno todos os produtos vendidos e o que havia em 
 estoque. Ao fim do dia, ele pegava o caderno e fazia os cálculos de quanto 
@@ -34,20 +34,17 @@ contratar novos funcionários.
 
 Márcia, esposa de Roberto, vem conversando com ele há muito tempo para 
 que contrate uma empresa para construir um sistema de informática para 
-gerenciar o negócio. O objetivo é reduzir o tempo que ele passa trabalhando, 
-obter melhor organização dos produtos, maior lucratividade e melhorar a 
+gerenciar o negócio. O objetivo é reduzir o tempo que ele passa trabalhando. obter melhor organização dos produtos, maior lucratividade e melhorar a 
 gestão.
 
 Com a intenção de aumentar o negócio, Roberto está disposto a informatizar 
-sua empresa. Vamos ajudá-lo. Começaremos construindo o banco de dados
+sua empresa. Vamos ajudá-lo. Começaremos construindo o banco de dados.
 
-### Elementos Levantados 
-
+### Elementos Levantados
  - Estoque
  - Funcionário
  - Venda
  - Cliente
- - Pagamento 
+ - Pagamento
  - Produto
- - itens da venda
- - 
+ - Itens de Venda
